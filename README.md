@@ -44,7 +44,7 @@ __Diseño:__
 
 <!-- YOUTUBE:START -->
 <a href="https://youtu.be/D-c4qshJ6ag">
-  <img src="https://img.youtube.com/vi/D-c4qshJ6ag/maxresdefault.jpg" width="200">
+  <img src="https://img.youtube.com/vi/D-c4qshJ6ag/maxresdefault.jpg" width="500">
 <a/>
 <!-- YOUTUBE:END -->
 
