@@ -48,8 +48,8 @@ __Diseño:__
 ## 📺 Destacado de youtube
 
 <!-- YOUTUBE:START -->
-<a href="https://youtu.be/D-c4qshJ6ag&t=17s">
-<img src="https://img.youtube.com/vi/D-c4qshJ6ag&t=17s/0.jpg">
+<a href="https://youtu.be/D-c4qshJ6ag">
+<img src="https://img.youtube.com/vi/D-c4qshJ6ag/maxresdefault.jpg">
 <!-- YOUTUBE:END -->
 
 
