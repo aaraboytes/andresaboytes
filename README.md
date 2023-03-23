@@ -46,14 +46,12 @@ __Diseño:__
 </details>
 
 ## 📺 Destacado de youtube
-<details>
     <summary>📺 Ver</summary>
     
 <!-- YOUTUBE:START -->
-- [Simulador Médico VR / Sweero](https://www.youtube.com/watch?v=D-c4qshJ6ag&t=17s)
+<a href="https://youtu.be/D-c4qshJ6ag&t=17s">
+<img src="http://i3.ytimg.com/vi/D-c4qshJ6ag&t=17s/maxresdefault.jpg">
 <!-- YOUTUBE:END -->
-    
-</details>
 
 [youtube]: https://www.youtube.com/channel/UCEQFWg1zJy-LF6ekLFrC_RA
 [instagram]: https://www.instagram.com/aaraboytes/
