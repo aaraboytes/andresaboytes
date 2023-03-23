@@ -36,14 +36,9 @@ __Diseño:__
 <br />
 
 ## 🔎 Mis estadisticas:
-<details>
-    <summary>🔎 Ver</summary>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresaboytes&show_icons=true&theme=tokyonight)
 
 <br />
-
-</details>
 
 ## 📺 Destacado de youtube
 
